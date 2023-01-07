@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/xzx/Project/iSONG/build",
+  "command": "/usr/local/cuda/bin/nvcc    -g   -std=c++14 -x cu -dc /home/xzx/Project/iSONG/main.cu -o CMakeFiles/iSONG.dir/main.cu.o && /usr/local/cuda/bin/nvcc    -g   -std=c++14 -x cu -M /home/xzx/Project/iSONG/main.cu -MT CMakeFiles/iSONG.dir/main.cu.o -o $DEP_FILE",
+  "file": "/home/xzx/Project/iSONG/main.cu"
+}
+]

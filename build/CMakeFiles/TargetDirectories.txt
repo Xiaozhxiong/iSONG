@@ -1,0 +1,3 @@
+/home/xzx/Project/iSONG/build/CMakeFiles/rebuild_cache.dir
+/home/xzx/Project/iSONG/build/CMakeFiles/edit_cache.dir
+/home/xzx/Project/iSONG/build/CMakeFiles/iSONG.dir
