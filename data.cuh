@@ -115,6 +115,7 @@ public:
             }
             ret[p.fist]=p.second;
         }
+        // 对返回值为自定义类型，以值形式返回时，会多一次复制构造，使用std::move 返回右值减少构造。
         return std::move(ret);
     }
 
